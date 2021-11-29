@@ -30,4 +30,4 @@ This application was developed with the help of [celso-henrique](https://github.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/gabriel-venezian/naruto-quotes/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/gabriel-venezian/naruto-quotes/blob/main/LICENSE.md) file for details.
