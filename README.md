@@ -24,7 +24,7 @@ $ npm install
 
 Run the application with `npm start` command. It will start the app on http://localhost:3000/.
 
-## Credits
+## Acknowledgments
 
 This application was developed with the help of [celso-henrique](https://github.com/celso-henrique) during the course "Introduction to React Hooks", provided by [Digital Innovation One](https://web.dio.me/home).
 
